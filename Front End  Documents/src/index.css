@@ -1,0 +1,13 @@
+body {
+margin: 0;
+padding: 1vw 1vh;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-image: url(background.jpg);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+
+button {
+    cursor: pointer;
+}

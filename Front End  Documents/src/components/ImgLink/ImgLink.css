@@ -1,0 +1,10 @@
+
+p{
+    color: rgb(255, 255, 255);
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+.form{
+    max-width: 2000px;
+    background:linear-gradient(to right, rgb(33, 220, 253),rgb(0, 174, 255))
+}
