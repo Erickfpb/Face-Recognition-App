@@ -1,1 +1,6 @@
-tttt
+1.- IN ORDER TO START AND MAKE THE FRONT END WORK, YOU NEED TO START THE SERVER FIRST FOR THE PORT 300
+2.- Download the documents in its own folder apart from the front end documents.
+3.- On your own code editor termi9nal, open the working folder where your documents for the server are located, and then run %npm install
+4.- Once the node modules are installed in the folder. you can run %npm start.
+5.- you will see the message: app is purrrring in port 3000.
+6 when you see this message, you can open a new terminal to start the npm for the front end documentation and start using the app.
